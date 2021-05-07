@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="Principal" />
+    <item
+        android:id="@+id/navigation_explorar"
+        android:icon="@drawable/ic_explore_foreground"
+        android:title="Explorar" />
+    <item
+        android:id="@+id/navigation_crear"
+        android:icon="@drawable/ic_crear_foreground"
+        android:title="Crear" />
+    <item
+        android:id="@+id/navigation_suscripciones"
+        android:icon="@drawable/ic_suscrip_foreground"
+        android:title="Suscripciones" />
+    <item
+        android:id="@+id/navigation_biblioteca"
+        android:icon="@drawable/ic_biblioteca_foreground"
+        android:title="Biblioteca" />
+</menu>
